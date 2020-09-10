@@ -5,5 +5,5 @@
 
     以及明日方舟官服ID 孭织#416
 
-- [Telegram]("t.me/bakashigure")
-- [Twitter]("twitter.com/bakashigure")
+- [Telegram]("https://t.me/bakashigure")
+- [Twitter]("https://twitter.com/bakashigure")

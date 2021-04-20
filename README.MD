@@ -8,5 +8,5 @@
 - [Telegram]("https://t.me/bakashigure")
 - [Twitter]("https://twitter.com/bakashigure")
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakashigure)](https://github.com/bakashigure/github-readme-stats)
 

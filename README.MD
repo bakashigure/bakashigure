@@ -5,8 +5,11 @@
 
     以及明日方舟官服ID 孭织#416
 
-- [Telegram]("https://t.me/bakashigure")
-- [Twitter]("https://twitter.com/bakashigure")
+#### 📫 Contact
+[![](https://img.shields.io/badge/-t.me/Amazing_DM-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)("https://t.me/bakashigure")
+[![](https://img.shields.io/twitter/follow/bakashigure?logo=twitter&style=flat-square)("https://twitter.com/bakashigure")
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakashigure)](https://github.com/bakashigure/github-readme-stats)
+
+
+[![bakashigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakashigure)](https://github.com/bakashigure/github-readme-stats)
 

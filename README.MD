@@ -1,15 +1,19 @@
 # 🐾 Hi
 
-    你好
-    我是猫
+    
+    bakashigure,废纸时雨.
+    废纸的意思是,没有用的东西.
+    
+    
+#### 明日方舟  
+    官服ID 孭织#416
+    日服ID バカ時雨#4223
 
-    以及明日方舟官服ID 孭织#416
-
-#### 📫 Contact
+### 📫 Contact
 [![](https://img.shields.io/badge/-t.me/bakashigure-3db6f1?style=flat-square&logo=Telegram&logoColor=2ca5e0)](https://t.me/bakashigure)
 [![](https://img.shields.io/twitter/follow/bakashigure?logo=twitter&style=flat-square)](https://twitter.com/bakashigure)
+[![](https://img.shields.io/badge/-baichishiyu@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:baichishiyu@gmail.com)
 
-
-
+### :zap: Github Stats
 [![bakashigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakashigure)](https://github.com/bakashigure/github-readme-stats)
 

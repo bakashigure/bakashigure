@@ -4,7 +4,7 @@
     bakashigure, 废纸时雨.
     废纸的意思是, 没有用的东西.    
     
-[![](https://img.shields.io/badge/-ABOUT-lightgrey?style=flat-square)](https://shigure.fun)    
+[![](https://img.shields.io/badge/-ABOUT-lightgrey?style=flat-square)](https://shigure.fun)
 [![](https://img.shields.io/badge/-BLOG-FF69B4?style=flat-square)](https://blog.shigure.fun)
     
     

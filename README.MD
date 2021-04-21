@@ -19,5 +19,5 @@
 [![](https://img.shields.io/badge/-baichishiyu@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:baichishiyu@gmail.com)        
 
 ### :zap: Github Stats
-[![bakashigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakashigure)](https://github.com/bakashigure/github-readme-stats&theme=highcontrast)
+[![bakashigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakashigure&theme=dracula&show_icons=true)](https://github.com/bakashigure/github-readme-stats)
 

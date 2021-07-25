@@ -21,4 +21,4 @@
 ### :zap:    Github Stats
 [![bakashigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakashigure&theme=dracula&show_icons=true)](https://github.com/bakashigure/github-readme-stats)
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=AkinoKaede&layout=compact&title_color=FB7299)  
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bakashigure&layout=compact&title_color=FB7299)  

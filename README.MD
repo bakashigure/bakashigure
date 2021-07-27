@@ -1,4 +1,4 @@
-# 🐾 R E A D M E
+# R E A D M E
 
 ### 废纸时雨(bakashigure)
 #### They were only two, on the planet.

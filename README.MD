@@ -25,4 +25,3 @@
 [![bakashigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakashigure&theme=dracula&show_icons=true)](https://github.com/bakashigure/github-readme-stats)
 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bakashigure&layout=compact&title_color=FB7299)  
-[![bakashigure's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bakashigure)](https://github.com/bakashigure/github-readme-stats)

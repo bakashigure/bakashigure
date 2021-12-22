@@ -22,6 +22,5 @@
 [![](https://img.shields.io/badge/-baichishiyu@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:baichishiyu@gmail.com)        
 
 ### :zap:    Github Stats
-[![bakashigure's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakashigure&theme=dracula&show_icons=true)](https://github.com/bakashigure/github-readme-stats)
-
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=bakashigure&layout=compact&title_color=FB7299)  
+![](https://github.com/bakashigure/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/bakashigure/github-stats/blob/master/generated/languages.svg)

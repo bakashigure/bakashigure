@@ -22,5 +22,5 @@
 [![](https://img.shields.io/badge/-baichishiyu@gmail.com-911318?style=flat-square&logo=Mail.RU&logoColor=white)](mailto:baichishiyu@gmail.com)        
 
 ### :zap:    Github Stats
-![](https://github.com/bakashigure/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/bakashigure/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/bakashigure/git_stats/blob/master/generated/overview.svg)
+![](https://github.com/bakashigure/git_stats/blob/master/generated/languages.svg)
